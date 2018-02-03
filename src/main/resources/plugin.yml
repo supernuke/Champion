@@ -1,0 +1,5 @@
+name: Champion
+version: ${project.version}
+main: Champion
+authors: [supernuke]
+description: mini-game that consist of players battling it out to get the highest kill record.
