@@ -11,6 +11,6 @@ public final class Champion extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic ewfe
+        // Plugin shutdown logic
     }
 }
